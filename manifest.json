@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "version": "0.0.1",
+    "name": "Resource Tracker",
+    "description": "This extension lets you bookmark all the great ideas you find across the websites all day. Don't have time at the moment ? No worries, Resouce Tracker is there to help.",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "bulb.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
